@@ -15,7 +15,7 @@
     }
 }
 
-@media only all and (min-sidth:360px) {
+@media only all and (min-sidth:720px) {
 
 }
 
@@ -33,6 +33,7 @@ nav {
     margin-left: auto;
     margin-right: auto;
 }
+
 
 
 div {
